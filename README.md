@@ -35,7 +35,7 @@ Algumas ferramentas que dominei ao longo do tempo
 
 ## Learning
 
-Recentemente estudando o mundo de DevOps, CI/CD, infra e aplicações resilientes e escaláveis
+Recentemente estudando o mundo de DevOps, CI/CD, infra, aplicações resilientes e escaláveis
 
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)]()
