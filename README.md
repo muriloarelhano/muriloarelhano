@@ -1,7 +1,9 @@
-## Olá! Me chamo Murilo Arelhano 👋
+## Olá! Me chamo Murilo Arelhano 👋 
 
-[![Instagram](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/murilo_arelhano/)
+[![Murilo - Personal Website](https://img.shields.io/badge/Murilo-Personal_Website-2ea44f?style=for-the-badge)](https://muriloarelhano.com.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_arelhano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarelhano/)
+
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloArelhano&show_icons=true&theme=dark)
 
@@ -18,9 +20,7 @@ Linguagens de programação que mais uso no meu dia a dia, sempre disposto a apr
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloArelhano&layout=compact&theme=dark)](https://github.com/MuriloArelhano/github-readme-stats)
-
 
 ## Frameworks and Tools
 
@@ -28,10 +28,9 @@ Algumas ferramentas que dominei ao longo do tempo
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
-[![NextJs](	https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![NestJs](	https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
+[![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-
 
 ## Learning
 
