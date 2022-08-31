@@ -1,11 +1,26 @@
-## Olá! Me chamo Murilo Arelhano 👋 
+## Olá! Me chamo Murilo Arelhano 👋
 
 [![Murilo - Personal Website](https://img.shields.io/badge/Murilo-Personal_Website-2ea44f?style=for-the-badge)](https://muriloarelhano.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_arelhano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarelhano/)
 
+<table border="0">
+<tr>
+
+<td>
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloArelhano&show_icons=true&theme=dark)
+
+</td>
+
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloArelhano&layout=compact&theme=dark)](https://github.com/MuriloArelhano/github-readme-stats)
+
+</td>
+
+</tr>
+
+</table>
 
 # Skills
 
@@ -19,8 +34,6 @@ Linguagens de programação que mais uso no meu dia a dia, sempre disposto a apr
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloArelhano&layout=compact&theme=dark)](https://github.com/MuriloArelhano/github-readme-stats)
 
 ## Frameworks and Tools
 
