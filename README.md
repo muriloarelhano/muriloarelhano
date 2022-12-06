@@ -3,24 +3,10 @@
 [![Murilo - Personal Website](https://img.shields.io/badge/Murilo-Personal_Website-2ea44f?style=for-the-badge)](https://muriloarelhano.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarelhano/)
 
-<table border="0">
-<tr>
-
-<td>
-
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloArelhano&show_icons=true&theme=dark)
-
-</td>
-
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloArelhano&layout=compact&theme=dark)](https://github.com/MuriloArelhano/github-readme-stats)
-
-</td>
-
-</tr>
-
-</table>
+<div>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=muriloarelhano&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloarelhano&layout=compact&langs_count=7&theme=ayu-mirage"/>
+</div>
 
 # Skills
 
@@ -45,7 +31,7 @@ Algumas ferramentas que dominei ao longo do tempo
 [![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 
-## Learning
+## DevOps
 
 Recentemente estudando o mundo de DevOps, CI/CD, infra, aplicações resilientes e escaláveis
 
