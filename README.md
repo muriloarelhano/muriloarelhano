@@ -4,6 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloarelhano/)
 
 <div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=muriloarelhano&show_icons=true&theme=github_dark&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloarelhano&layout=donut&theme=github_dark"/>
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=muriloarelhano&theme=tokyonight&hide_border=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloarelhano&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
